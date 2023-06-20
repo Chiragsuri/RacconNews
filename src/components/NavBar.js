@@ -56,7 +56,7 @@ const NavBar = (props) => {
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" href="/sports">
+                <Link className="nav-link" to="/sports">
                   Sports
                 </Link>
               </li>
